@@ -1,0 +1,15 @@
+body{
+	font-family: 'Exo 2', sans-serif;
+font-family: 'Prompt', sans-serif;
+line-height: 30px;
+}
+
+#grad1 {
+  min-height: 100vh;
+  background-color: red;
+  background-image: linear-gradient(to right, black, #4665c2);
+}
+img{
+	height: 400px;
+	width: 300px;
+}
